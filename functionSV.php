@@ -55,6 +55,7 @@ function getStatus($point){
 
 <body>
     <h1>Danh sach sinh vien</h1>
+    <h1>Danh sach sinh vien</h1>
     <table>
         <tr>
             <th>Name</th>
